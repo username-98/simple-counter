@@ -31,7 +31,15 @@ button {
 #increment-btn {
     background: darkred;
 }
-
-#save-btn {
-    background: darkgreen;
+#increment-btn:hover {
+    padding-top: 11px;
+    padding-bottom: 11px;
+    color: white;
+    font-weight: bold;
+    width: 210px;
+    margin-bottom: 6px;
 }
+
+/* #save-btn {
+    background: darkgreen;
+} */
